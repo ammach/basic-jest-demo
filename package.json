@@ -1,7 +1,7 @@
 {
   "name": "jest-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a Jest template to facilitate the setup of such project",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
