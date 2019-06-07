@@ -1,0 +1,22 @@
+{
+  "name": "basic-jest-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "24.8.0",
+    "jest-cli": "24.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [
+    "jest",
+    "unit tests"
+  ]
+}
